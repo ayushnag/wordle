@@ -1,3 +1,8 @@
+/**
+ * Wordle.java
+ * Author: Ayush Nag
+ * 7/15/2022
+ */
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
