@@ -1,1 +1,2 @@
-# wordle
+# Java Wordle
+## Command line Wordle Game
